@@ -1,0 +1,15 @@
+.card{
+   width: 40rem;
+}
+.header-logo{
+    background-color: aqua;
+    height: 55px;
+    text-align: center;
+}
+.form-control{
+    width: 40rem;
+}
+
+#message {
+    color: red;
+}
